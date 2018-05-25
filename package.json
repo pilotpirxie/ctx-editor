@@ -1,0 +1,38 @@
+{
+  "name": "ctx-editor",
+  "version": "1.0.0",
+  "description": "Visual canvas editor for objects with properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilotpirxie/ctx-editor.git"
+  },
+  "keywords": [
+    "visual",
+    "canvas",
+    "editor",
+    "drag'n'drop",
+    "visual",
+    "editor",
+    "game",
+    "webgl",
+    "html5",
+    "2d",
+    "editor",
+    "flow",
+    "editor",
+    "chart",
+    "editor"
+  ],
+  "author": "pp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pilotpirxie/ctx-editor/issues"
+  },
+  "homepage": "https://github.com/pilotpirxie/ctx-editor#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
