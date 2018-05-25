@@ -8,3 +8,10 @@ window.addEventListener("resize", function() {
 
 // append canvas
 document.body.appendChild(app.view);
+
+// settings
+var editorSettings = {
+    scale: 1,
+    gridX: 32,
+    gridY: 32
+};
